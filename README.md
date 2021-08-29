@@ -18,7 +18,7 @@ Admin Interface:
     - Admin can also view student requests and update them or deny them accordingly.
 
 
-**NOTE:***
+***NOTE:***
 The following are some of the things to be noted ....
 
     1) You need to have your computer connected to the internet (otp authentication service)
