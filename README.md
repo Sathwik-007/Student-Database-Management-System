@@ -18,8 +18,8 @@ Admin Interface:
     - Admin can also view student requests and update them or deny them accordingly.
 
 
-***NOTE:***
-The following are some of the things need to be noted ....
+**NOTE:***
+The following are some of the things to be noted ....
 
     1) You need to have your computer connected to the internet (otp authentication service)
     2) You may want to use your own api for text message service required for otp authentication service. If so modify these lines in files:
