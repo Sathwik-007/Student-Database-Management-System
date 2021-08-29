@@ -17,7 +17,7 @@ Admin Interface:
     - Admin can view student details according to student 'Roll no' or 'Branch' or 'cgpa'.
     - Admin can also view student requests and update them or deny them accordingly.
 
-The files admin_main.py and user_main.py are the kickstart files that fire up interfaces for student and admin respectively.
+***The files admin_main.py and user_main.py are the kickstart files that fire up interfaces for student and admin respectively.***
 ***You may convert these admin_main.py and user_main.py files into executable to run as application (pyinstaller).***
 
 ***NOTE:***
