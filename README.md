@@ -1,7 +1,7 @@
 # Student-Database-Management-System
 
-This is a simple application software that provides interface at user-end. This application is mainly developed in the view of educational institutions which has a basic need 
-storing student details and viewing them when wanted to. 
+This is a simple application software that provides interface at user-end. This application is mainly developed in the view of educational institutions which have a common objective to store student details in a database that can be useful for different purposes. 
+
 
 A BASIC WALKTHORUGH:
 
@@ -29,3 +29,5 @@ The following are some of the things to be noted ....
             - In adminInterface.py, line: 213, 214
     3) All profile photos must be png format.
     4) In admin page, all details will be updated along with profile photos as well, but what profile pic is being updated is not shown to admin.
+
+This application works really well. However, there is always room for improvement ;)
