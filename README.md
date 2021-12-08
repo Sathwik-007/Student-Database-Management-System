@@ -6,6 +6,7 @@ This is a simple application software that provides interface at user-end. This 
 A BASIC WALKTHORUGH:
 
 Student Interface:
+
     - Student interface has student login, register and change password options.
     
     - If a student is not registered yet, then he may register himself by clicking on the register button.
@@ -17,8 +18,11 @@ Student Interface:
     - If any changes have to be made in his details, then he shall have to send a request to admin to modify his details.
 
 Admin Interface:
+
     - Admin too can login, register and change password as well.
+
     - Admin can view student details according to student 'Roll no' or 'Branch' or 'cgpa'.
+    
     - Admin can also view student requests and update them or deny them accordingly.
 
 ***The files admin_main.py and user_main.py are the kickstart files that fire up interfaces for student and admin respectively.***
