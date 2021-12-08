@@ -27,8 +27,8 @@ Admin Interface:
 
 ***NOTE:***
      
-     ***The files admin_main.py and user_main.py are the kickstart files that fire up interfaces for student and admin respectively.***  
-     ***You may convert these admin_main.py and user_main.py files into executable to run as application (pyinstaller).***
+     *** The files admin_main.py and user_main.py are the kickstart files that fire up interfaces for student and admin respectively.***  
+     *** You may convert these admin_main.py and user_main.py files into executable to run as application (pyinstaller).***
 
 The following are some of the things to be noted ....
 
@@ -36,7 +36,7 @@ The following are some of the things to be noted ....
     2) You may want to use your own api for text message service required for otp authentication service. If so modify these lines in files:
             - In AuthenticateDetails.py, line: 200, 202
             - In adminInterface.py, line: 213, 214
-    3) All profile photos must be png format.
+    3) All profile photos must be png format (you can convert any other formats into .png using online converters).
     4) In admin page, all details will be updated along with profile photos as well, but what profile pic is being updated is not shown to admin.
 
 This application works really well. However, there is always room for improvement ;)
