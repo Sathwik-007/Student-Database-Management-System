@@ -7,9 +7,13 @@ A BASIC WALKTHORUGH:
 
 Student Interface:
     - Student interface has student login, register and change password options.
+    
     - If a student is not registered yet, then he may register himself by clicking on the register button.
+    
     - Student can change his password by clicking on the Change password button.
+    
     - When a student logs in with his credentials, then a window is displayed viewing his details.
+    
     - If any changes have to be made in his details, then he shall have to send a request to admin to modify his details.
 
 Admin Interface:
