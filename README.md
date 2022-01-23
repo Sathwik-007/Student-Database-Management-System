@@ -40,5 +40,3 @@ The following are some of the things to be noted ....
     4) In admin page, all details will be updated along with profile photos as well, but what profile pic is being updated is not shown to admin.
 
 This application works really well. However, there is always room for improvement ;)
-
-You may reachout to me for your feedback or queries to my mail id : sathwikpinninti@gmail.com
