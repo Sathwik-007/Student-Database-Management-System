@@ -36,6 +36,7 @@ Admin Interface:
     Since this application is not converted into an executable, modules used like PIL, pyotp need to installed into the machine before executing the code. Pip install the following libraries and you are good to go :).
             - pip3 install pillow
             - pip3 install pyotp
+            - pip3 install tabulate
 
 The following are some of the things to be aware of ....
 
