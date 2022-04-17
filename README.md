@@ -33,7 +33,11 @@ Admin Interface:
             - In AuthenticateDetails.py, line: 200, 202
             - In adminInterface.py, line: 213, 214.
 
-The following are some of the things to be noted ....
+    Since this application is not converted into an executable, modules used like PIL, pyotp need to installed into the machine before executing the code. Pip install the following libraries and you are good to go :).
+            - pip3 install pillow
+            - pip3 install pyotp
+
+The following are some of the things to be aware of ....
 
     1) You need to have your computer connected to the internet (otp authentication service).
     2) All profile photos must be png format (you can convert any other formats into .png using online converters).
