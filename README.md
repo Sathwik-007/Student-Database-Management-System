@@ -27,7 +27,7 @@ Admin Interface:
 
 ***NOTE:***
      
-    The files admin_main.py and user_main.py are the kickstart files that fire up interfaces for student and admin respectively. You may convert these admin_main.py and user_main.py files into executable to run as application (pyinstaller).
+    The files admin_main.py and user_main.py are the kickstart files that fire up interfaces for student and admin respectively. You may convert these admin_main.py and user_main.py(from Admin and User parent folders respectively) files into executable to run as application (pyinstaller).
 
     You may want to use your own api for text message service required for otp authentication service. If so modify these lines in files:
             - In AuthenticateDetails.py, line: 200, 202
