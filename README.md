@@ -9,7 +9,7 @@ Student Interface:
 
     - Student interface has student login, register and change password options.
     
-    - If a student is not registered yet, then he may register himself by clicking on the register button.
+    - If a student is not registered yet, then he may register by clicking on the register button.
     
     - Student can change his password by clicking on the Change password button.
     
